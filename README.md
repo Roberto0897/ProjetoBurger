@@ -1,2 +1,3 @@
-# cp2
-Construção de Páginas 2
+# Projeto Academico Burger
+Desevolvimento de projeto , utilizando o framework vue.
+
